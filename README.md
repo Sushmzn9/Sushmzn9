@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushan Maharjan</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmzn9&label=Profile%20views&color=0e75b6&style=flat" alt="sushmzn9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmzn9" alt="sushmzn9" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Project**
 
