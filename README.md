@@ -4,9 +4,6 @@
 ---
 
 ### About Me
-- 🔭 **Currently Working On:**  
-  Building **Ecommerce Solutions** and **Dealer Management Systems**.
-
 - 💼 **Working at:**  
   **CFS Group**
 
